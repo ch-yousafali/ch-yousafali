@@ -3,7 +3,7 @@
 <h3 align="center">I build Python tools and AI-powered web applications, think a lot about how software is architected, and care about shipping things that work in production. Open to software development internships in Lahore check my projects below</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-yousafali&label=Profile%20views&color=0e75b6&style=flat" alt="ch-yousafali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-yousafali&theme=" alt="ch-yousafali" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-yousafali&theme=" alt="ch-yousafali" /></a> </p> -->
 
 - 🌱 I’m currently learning **Deployment workflows, and dive deepening into Python its Libraies and Frameworks**
 - 💬 Ask me about **How physics and software engineering overlap more than you'd think.**
