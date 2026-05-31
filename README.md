@@ -1,7 +1,7 @@
 <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
 <h1 align="center">Hello, I'm Yousuf Ali</h1>
 <h3 align="center">I build Python tools and AI-powered web applications, think a lot about how software is architected, and care about shipping things that work in production. Open to software development internships in Lahore check my projects below</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-yousafali&label=Profile%20views&color=0e75b6&style=flat" alt="ch-yousafali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ch-yousafali&label=Profile%20views&color=0e75b6&style=flat" alt="ch-yousafali" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-yousafali&theme=" alt="ch-yousafali" /></a> </p> -->
 
