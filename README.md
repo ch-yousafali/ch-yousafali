@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
 <h1 align="center">Hello, I'm Yousuf Ali</h1>
 <h3 align="center">I build Python tools and AI-powered web applications, think a lot about how software is architected, and care about shipping things that work in production. Open to software development internships in Lahore check my projects below</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-yousafali&label=Profile%20views&color=0e75b6&style=flat" alt="ch-yousafali" /> </p>
@@ -32,7 +32,8 @@
 <!-- <h3 align="left">Stars</h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ch-yousafali&theme=" alt="ch-yousafali" /></p> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/ch-yousafali">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ch-yousafali&theme=2077" height="180em" />
@@ -42,4 +43,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ch-yousafali&theme=2077" height="180em" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
