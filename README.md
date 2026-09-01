@@ -4,7 +4,7 @@
 $ whoami
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AF79A&center=true&vCenter=true&width=650&height=30&lines=yousuf-ali;computational_physics_student;ml_for_particle_physics;3d_artist+%40+rendering;building_polymart...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AF79A&center=true&vCenter=true&width=650&height=30&lines=yousaf-ali;computational_physics+%2B+ml;building+polymart;running+rendering)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,10 @@ $ whoami
 > cat about.md
 ```
 
-I study Computational Physics and apply Machine Learning to particle physics data. Outside research, I run a 3D art studio called Rendering, and I am building Polymart, a marketplace for 3D game assets. Full-stack tools: React, Next.js, TypeScript, Node.js, FastAPI.
+I study Computational Physics and apply Machine Learning to particle physics
+data. Outside research, I run a 3D art studio called Rendering, and I'm
+building Polymart, a marketplace for 3D game assets. Full-stack tools:
+React, Next.js, TypeScript, Node.js, FastAPI.
 
 <br/>
 
@@ -124,10 +127,10 @@ gemini
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-0D1117?style=flat-square&logo=github&logoColor=7AF79A)](https://github.com/ch-yousafali)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=7AF79A)](https://www.linkedin.com/in/ch-yousufali)
-[![Gmail](https://img.shields.io/badge/email-0D1117?style=flat-square&logo=gmail&logoColor=7AF79A)](mailto:b62125458@gmail.com)
-[![Instagram](https://img.shields.io/badge/instagram-0D1117?style=flat-square&logo=instagram&logoColor=7AF79A)](https://instagram.com/ch-yousufali)
+[![GitHub](https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=7AF79A)](https://github.com/ch-yousafali)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=7AF79A)](https://www.linkedin.com/in/ch-yousufali)
+[![Gmail](https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=7AF79A)](mailto:b62125458@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=7AF79A)](https://instagram.com/ch-yousufali)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ch-yousafali&color=0D1117&style=flat-square&label=views)
 
