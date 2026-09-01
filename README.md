@@ -1,114 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20I'm%20Yousaf%20Ali&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Full-Stack%20Builder&descAlignY=55&descSize=18" width="100%"/>
+```
+$ whoami
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&pause=950&center=true&vCenter=true&width=900&lines=Hey!+I'm+Yousaf+Ali!;Python+Developer+%26+AI+Enthusiast;Building+Full-Stack+Web+Apps;Learning.+Building.+Shipping.)](https://git.io/typing-svg)
-
-Building software that solves real problems. Learning every day and shipping consistently.
-
-<p>
-<a href="https://www.linkedin.com/in/ch-yousufali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/ch-yousafali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:b62125458@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ch-yousufali"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ch-yousafali&abbreviated=true&color=blue&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=yousaf-ali;python_developer;ai_enthusiast;building...+learning...+shipping...)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+<br/>
 
----
+```
+> cat about.md
+```
 
-## About Me
+I build Python tools and AI-powered web apps, and I'm sharpening my full-stack
+chops — React/Next.js on the frontend, FastAPI/Node on the backend.
+Currently a software engineering student. Ship something every week.
+
+<br/>
+
+```
+> cat currently.md
+```
+
+- building AI-powered web applications
+- learning advanced FastAPI + backend architecture
+- learning React, Next.js, TypeScript
+- exploring deployment and production workflows
+
+<br/>
+
+```
+> ls stack/
+```
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**languages**
+```
+python  javascript  typescript
+c       cpp         html/css
+```
+
+**frontend**
+```
+react   nextjs   tailwindcss
+```
+
+</td>
+<td valign="top" width="50%">
+
+**backend**
+```
+nodejs  flask   fastapi
+git     github  linux
+```
+
+**ai tools**
+```
+claude  gemini
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```
+> git log --stat --author=yousaf
+```
+
+<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ch-yousafali&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ch-yousafali&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="43%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-yousafali&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="65%"/>
+</div>
+
+<br/>
+
+```
+> cat contribution_graph.svg
+```
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+```
+> cat contact.sh
+```
 
 <div align="center">
 
-### 🐍 Python Developer &nbsp;•&nbsp; 🤖 AI Enthusiast &nbsp;•&nbsp; 💻 Software Engineering Student
+[![GitHub](https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/ch-yousafali)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/ch-yousufali)
+[![Gmail](https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:b62125458@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=00FF41)](https://instagram.com/ch-yousufali)
 
-Building Python tools and AI-powered web applications while exploring software architecture, full-stack development, and scalable systems.
+![Profile Views](https://komarev.com/ghpvc/?username=ch-yousafali&color=0D1117&style=flat-square&label=views)
 
 </div>
-
----
-
-## 🚀 What I'm Working On Right Now
-
-Currently sharpening my full-stack and AI development skills by building real-world applications end to end — from backend logic to polished, production-ready frontends.
-
-My current focus:
-
-- 🔭 Building AI-powered web applications
-- ⚙️ Learning advanced FastAPI and backend architecture
-- 🎨 Building modern frontends with React, Next.js & TypeScript
-- ☁️ Exploring deployment and production workflows
-- 📈 Improving software engineering practices
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss&logoColor=38B2AC"/>
-</p>
-
-### Backend & Development
-<p>
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624"/>
-</p>
-
-### AI Tools
-<p>
-<img src="https://img.shields.io/badge/-Claude-05122A?style=flat&logo=anthropic&logoColor=D97757"/>
-<img src="https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google&logoColor=4285F4"/>
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ch-yousafali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ch-yousafali&layout=compact&langs_count=8&theme=algolia" width="43%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-yousafali&theme=algolia&hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ch-yousafali&theme=react-dark&hide_border=true" width="100%"/>
+```
+$ echo "thanks for stopping by"
+```
 
 </div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:b62125458@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ch-yousafali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ch-yousufali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/ch-yousufali"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
