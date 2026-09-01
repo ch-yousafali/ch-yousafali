@@ -1,106 +1,240 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter\&color=7AF79A\&size=30\&pause=950\&center=true\&vCenter=true\&width=900\&lines=Hey!+I'm+Yousaf+Ali!;Python+Developer+%26+AI+Enthusiast;Building+Practical+Software;Learning.+Building.+Shipping.)](https://git.io/typing-svg)
+# ⚡ Yousaf Ali
 
-Building software that solves real problems. Learning every day and shipping consistently.
+### `Python Developer` · `AI Enthusiast` · `Software Engineer`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ch-yousufali)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ch-yousafali)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:b62125458@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ch-yousafali\&abbreviated=true\&color=blue\&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=7AF79A&center=true&vCenter=true&width=850&lines=Building+Practical+Software+%F0%9F%9A%80;Python+%7C+AI+%7C+Backend+Engineering;Turning+Ideas+Into+Working+Products;Learning+%E2%86%92+Building+%E2%86%92+Shipping" alt="Typing SVG" />
 
-</div>
+<br>
 
----
+<p>
+  <i>Building software that solves real problems.<br>
+  Learning every day. Building relentlessly. Shipping consistently.</i>
+</p>
 
-# About Me
-
-<div align="center">
-
-### Python Developer • AI Enthusiast • Software Engineering Student
-
-Building Python tools and AI-powered web applications while exploring software architecture and scalable systems.
-
-</div>
-
----
-
-# What I'm Working On Right Now
-
-Currently improving my backend engineering and AI development skills by building real-world applications with Python.
-
-My current focus is:
-
-* Building AI-powered web applications
-* Learning advanced FastAPI and backend architecture
-* Exploring deployment and production workflows
-* Improving software engineering practices
-
----
-
-# Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-### Backend & Development
-
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat\&logo=fastapi\&logoColor=009688)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat\&logo=linux\&logoColor=FCC624)
-
-### AI Tools
-
-![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=anthropic&logoColor=D97757)
-![Google Gemini](https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google&logoColor=4285F4)
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ch-yousafali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ch-yousafali&layout=compact&langs_count=8&theme=algolia"/>
-
-</div>
-
-<!-- <div align="center"> -->
-
-<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=ch-yousafali&theme=gotham&hide_border=true"/> -->
-
-</div>
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="mailto:b62125458@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://github.com/ch-yousafali">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ch-yousufali">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:b62125458@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+&nbsp;
+<a href="https://instagram.com/ch-yousufali">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ch-yousafali&label=PROFILE+VIEWS&color=7AF79A&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class YousafAli:
+
+    role = "Python Developer & AI Enthusiast"
+
+    languages = [
+        "Python",
+        "JavaScript",
+        "C",
+        "C++",
+        "HTML",
+        "CSS"
+    ]
+
+    currently_learning = [
+        "Backend Architecture",
+        "FastAPI",
+        "AI Engineering",
+        "Production Systems",
+        "Cloud & Deployment"
+    ]
+
+    philosophy = "Learn → Build → Ship → Improve"
+
+    goal = "Build software that creates real-world impact."
+```
+
+I'm a software engineering student passionate about **Python, backend development, artificial intelligence, and building practical products**.
+
+I enjoy taking an idea from a simple concept and turning it into something people can actually use.
+
+---
+
+# 🚀 What I'm Building
+
+<div align="center">
+
+|         Focus         | What I'm Exploring                                  |
+| :-------------------: | :-------------------------------------------------- |
+| 🤖 **AI Engineering** | AI-powered applications & intelligent workflows     |
+|     🐍 **Python**     | Backend systems, automation & developer tools       |
+|     ⚡ **FastAPI**     | High-performance APIs & modern backend architecture |
+|    🌐 **Web Apps**    | Full-stack applications & responsive interfaces     |
+|   ☁️ **Deployment**   | Production workflows, hosting & CI/CD               |
+|   🧠 **Engineering**  | Clean architecture, scalability & maintainability   |
+
+</div>
+
+---
+
+# 🛠️ Tech Arsenal
+
+### 💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,css" />
+
+</div>
+
+### ⚙️ Backend & Frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+
+</div>
+
+### 🗄️ Tools & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postgresql,vercel" />
+
+</div>
+
+### 🤖 AI
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Anthropic-Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+<img src="https://img.shields.io/badge/Google-Gemini-111827?style=for-the-badge&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/OpenAI-LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ch-yousafali&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ch-yousafali&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ch-yousafali&theme=gotham&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🔥 Current Mission
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   BUILDING THE SKILLS TO BUILD THE SYSTEMS OF TOMORROW    ║
+║                                                            ║
+║   ▸ Become a stronger backend engineer                    ║
+║   ▸ Build useful AI-powered applications                  ║
+║   ▸ Understand scalable software architecture             ║
+║   ▸ Ship production-ready products                        ║
+║   ▸ Keep learning and experimenting                       ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ch-yousafali?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Explore_My_Projects-7AF79A?style=for-the-badge&labelColor=0D1117&color=7AF79A" />
+</a>
+
+<br><br>
+
+<i>More projects are constantly being built, improved, and shipped.</i>
+
+</div>
+
+---
+
+# 💡 Engineering Philosophy
+
+> **Don't just learn technology. Build something with it.**
+
+I believe the fastest way to grow as an engineer is to combine **curiosity with execution**.
+
+Learn something → build with it → break it → understand why → improve it → ship it.
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ch-yousafali">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/ch-yousufali">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:b62125458@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://instagram.com/ch-yousufali">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
 </a>
+
+<br><br>
+
+### ✨ *Learning. Building. Shipping.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7AF79A,100:0D1117&height=120&section=footer" />
 
 </div>
