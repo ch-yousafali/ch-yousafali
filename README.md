@@ -8,7 +8,6 @@
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
-│                                                              │
 │                         $ whoami                             │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
@@ -40,17 +39,11 @@
 
 <br><br>
 
-</div>
-
 ---
-
-<div align="center">
 
 ```text
 $ cat about.md
 ```
-
-</div>
 
 I'm a **Computational Physics student** applying **Machine Learning to particle physics data**.
 
@@ -72,13 +65,9 @@ Outside research, I'm building **Polymart**, a marketplace for 3D game assets, a
 
 ---
 
-<div align="center">
-
 ```text
 $ cat currently.md
 ```
-
-</div>
 
 ### 🔬 Research
 
@@ -98,20 +87,16 @@ Sharpening my skills in **React, Next.js, TypeScript, Node.js, FastAPI, and back
 
 ---
 
-<div align="center">
-
 ```text
 $ ls -la stack/
 ```
-
-</div>
 
 <br>
 
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `languages/`
 
@@ -126,7 +111,7 @@ HTML / CSS
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `frontend/`
 
@@ -138,7 +123,7 @@ Tailwind CSS
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `backend/`
 
@@ -154,7 +139,7 @@ Flask
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `ml-research/`
 
@@ -168,7 +153,7 @@ Google Colab
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `tools/`
 
@@ -182,7 +167,7 @@ Vercel
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `ai/`
 
@@ -199,7 +184,7 @@ AI Engineering
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `3d-design/`
 
@@ -212,7 +197,7 @@ Digital Art
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `databases/`
 
@@ -224,7 +209,7 @@ SQL
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### `workflow/`
 
@@ -242,8 +227,6 @@ VS Code
 
 ---
 
-<div align="center">
-
 ## ⚡ THE STACK
 
 <br>
@@ -254,11 +237,7 @@ VS Code
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,postgresql,docker,vercel,blender,numpy" />
 
-</div>
-
 ---
-
-<div align="center">
 
 ```text
 $ git log --stat --author="yousaf"
@@ -274,11 +253,7 @@ $ git log --stat --author="yousaf"
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-yousafali&theme=dark&hide_border=true&background=0D1117&ring=7AF79A&fire=7AF79A&currStreakLabel=7AF79A" width="65%" />
 
-</div>
-
 ---
-
-<div align="center">
 
 ```text
 $ cat contribution_graph.svg
@@ -302,11 +277,7 @@ $ cat contribution_graph.svg
   />
 </picture>
 
-</div>
-
 ---
-
-<div align="center">
 
 ```text
 $ tree projects/
@@ -328,11 +299,7 @@ projects/
     └── software · AI · research
 ```
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🧬 RESEARCH × ENGINEERING × CREATIVITY
 
@@ -386,11 +353,7 @@ Digital Environments
 </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
@@ -407,11 +370,7 @@ Digital Environments
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-</div>
-
 ---
-
-<div align="center">
 
 ```text
 $ cat contact.sh
@@ -448,7 +407,5 @@ $ echo "thanks for stopping by"
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=7AF79A&center=true&vCenter=true&width=600&lines=Keep+building.;Keep+experimenting.;Keep+shipping." alt="Closing animation"/>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AF79A,50:0D1117,100:050505&height=120&section=footer" width="100%"/>
 
 </div>
