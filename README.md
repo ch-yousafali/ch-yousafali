@@ -1,411 +1,74 @@
 <div align="center">
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yousuf;Computational+Physics+%2B+ML+Engineer;Building+at+the+Physics-AI+Intersection;3D+Artist+%26+Game+Dev+Enthusiast" alt="Typing SVG" />
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D1117,100:7AF79A&height=180&section=header&text=YOUSAF%20ALI&fontSize=42&fontColor=7AF79A&animation=fadeIn&fontAlignY=38&desc=Computational%20Physics%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Engineering&descAlignY=60&descSize=16&descColor=C9D1D9" width="100%"/> -->
+Building ML models for physics, shipping products, creating in Blender.
 
-<br>
+<a href="https://www.linkedin.com/in/ch-yousufali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ch-yousafali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:b62125458@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=ch-yousafali&abbreviated=true&color=blue&style=for-the-badge" />
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                         $ whoami                             │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=23&duration=2800&pause=900&color=7AF79A&center=true&vCenter=true&width=800&height=45&lines=yousaf-ali;computational_physics+%2B+machine_learning;particle_physics+%2B+deep_learning;building+Polymart;running+Rendering;research+%E2%86%92+build+%E2%86%92+ship" alt="Typing animation"/>
-
-<br><br>
-
-<a href="https://github.com/ch-yousafali">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7AF79A"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ch-yousufali">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7AF79A"/>
-</a>
-&nbsp;
-<a href="mailto:b62125458@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=7AF79A"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/ch-yousufali">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=7AF79A"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ch-yousafali&color=7AF79A&style=flat-square&label=PROFILE+VIEWS"/>
-
-<br><br>
+</div>
 
 ---
 
-```text
-$ cat about.md
-```
+## About Me
 
-I'm a **Computational Physics student** applying **Machine Learning to particle physics data**.
+<div align="center">
+  <p><b>Computational Physics Student</b> &nbsp;•&nbsp; <b>Founder @ Rendering</b> &nbsp;•&nbsp; <b>Building Polymart</b></p>
+</div>
 
-My work sits at the intersection of **scientific computing, machine learning, software engineering, and creative technology**.
-
-Outside research, I'm building **Polymart**, a marketplace for 3D game assets, and running **Rendering**, a 3D art studio focused on assets, environments, and digital production.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  PHYSICS        →  Particle Physics · Scientific Computing  │
-│  MACHINE        →  CNN · GNN · Deep Learning                │
-│  SOFTWARE       →  React · Next.js · TypeScript · Node.js   │
-│  BACKEND        →  FastAPI · Flask                          │
-│  CREATIVE       →  Blender · 3D Assets · Environments      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+- **Computational Physics** student at Punjab University Lahore, thesis work on **CNN vs GNN jet classification** using CERN Open Data, plus gravitational wave detection research with LIGO open data
+- **Founder** of Rendering — a 3D art studio delivering Blender assets, environments, and visual content for game developers and studios
+- **Building** Polymart — a 3D game asset marketplace (Next.js, Cloudflare, Stripe Connect)
+- Accepted into the **Thinking About Thinking (ThAT)** fellowship program
 
 ---
 
-```text
-$ cat currently.md
-```
+## What I'm Building Right Now
 
-### 🔬 Research
+`Jet Classification (CNN vs GNN)` → `Gravitational Wave Detection` → `Polymart` → `Rendering`
 
-Training **CNN/GNN models on CERN Open Data** for particle jet classification as part of my thesis.
+**Powered by** PyTorch · CERN Open Data · Next.js · Cloudflare · Blender
 
-### 🛒 Building — Polymart
-
-A marketplace focused on **3D game assets**, connecting creators and game developers.
-
-### 🎨 Creating — Rendering
-
-Producing **3D assets, environments, and digital artwork** through my 3D art studio.
-
-### ⚡ Engineering
-
-Sharpening my skills in **React, Next.js, TypeScript, Node.js, FastAPI, and backend architecture**.
+- **Jet Classification**: CNN vs GNN comparison on the Top Quark Tagging dataset, full-dataset training in progress
+- **Gravitational Wave Detection**: LIGO open data analysis, research led alongside my thesis partner
+- **Polymart**: 3D game asset marketplace — Next.js, Cloudflare Pages/Workers/D1/R2, Stripe Connect, Clerk
+- **Rendering**: 3D art studio — Blender assets and environments for game/film clients
 
 ---
 
-```text
-$ ls -la stack/
-```
+## Tech Stack
 
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### `languages/`
-
-```text
-Python
-JavaScript
-TypeScript
-C
-C++
-HTML / CSS
-```
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### `frontend/`
-
-```text
-React
-Next.js
-Tailwind CSS
-```
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### `backend/`
-
-```text
-Node.js
-FastAPI
-Flask
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### `ml-research/`
-
-```text
-PyTorch
-NumPy
-Pandas
-Jupyter
-Google Colab
-```
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### `tools/`
-
-```text
-Git
-GitHub
-Linux
-Docker
-Vercel
-```
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### `ai/`
-
-```text
-Claude
-Gemini
-LLMs
-AI Engineering
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### `3d-design/`
-
-```text
-Blender
-3D Assets
-Environments
-Digital Art
-```
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### `databases/`
-
-```text
-PostgreSQL
-MongoDB
-SQL
-```
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### `workflow/`
-
-```text
-Linux
-Git
-GitHub
-VS Code
-```
-
-</td>
-
-</tr>
-</table>
+<p align="left">
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791" />
+<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=E87D0D" />
+<img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare&logoColor=F38020" />
+</p>
 
 ---
 
-## ⚡ THE STACK
+## GitHub Stats
 
-<br>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,nodejs,fastapi,flask,pytorch" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ch-yousafali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ch-yousafali&layout=compact&langs_count=8&theme=algolia" />
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,postgresql,docker,vercel,blender,numpy" />
-
----
-
-```text
-$ git log --stat --author="yousaf"
-```
-
-<br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ch-yousafali&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AF79A&icon_color=7AF79A&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ch-yousafali&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7AF79A&text_color=C9D1D9" width="42%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-yousafali&theme=dark&hide_border=true&background=0D1117&ring=7AF79A&fire=7AF79A&currStreakLabel=7AF79A" width="65%" />
+</div>
 
 ---
 
-```text
-$ cat contribution_graph.svg
-```
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ch-yousafali/ch-yousafali/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ch-yousafali/ch-yousafali/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ch-yousafali/ch-yousafali/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
-
----
-
-```text
-$ tree projects/
-```
-
-```text
-projects/
-│
-├── 🔬 particle-ml/
-│   └── CNN / GNN → jet classification
-│
-├── 🛒 polymart/
-│   └── 3D asset marketplace
-│
-├── 🎨 rendering/
-│   └── 3D assets & environments
-│
-└── ⚡ experiments/
-    └── software · AI · research
-```
-
----
-
-## 🧬 RESEARCH × ENGINEERING × CREATIVITY
-
-<br>
-
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
-
-### 🔬 PHYSICS
-
-Particle Physics
-
-Scientific Computing
-
-CERN Open Data
-
-Deep Learning
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 SOFTWARE
-
-Full-Stack Development
-
-Backend Architecture
-
-AI Applications
-
-Production Systems
-
-</td>
-
-<td align="center" width="33%">
-
-### 🎨 CREATIVE
-
-3D Art
-
-Blender
-
-Game Assets
-
-Digital Environments
-
-</td>
-
-</tr>
-</table>
-
----
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                       CURRENT MISSION                        │
-│                                                              │
-│   Understand the physics.                                    │
-│   Build the model.                                           │
-│   Engineer the system.                                       │
-│   Create the product.                                        │
-│                                                              │
-│                 → Learn → Build → Ship ←                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
-```text
-$ cat contact.sh
-```
-
-<br>
-
-<a href="https://github.com/ch-yousafali">
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=7AF79A"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ch-yousufali">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=7AF79A"/>
-</a>
-
-<a href="mailto:b62125458@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=7AF79A"/>
-</a>
-
-<a href="https://instagram.com/ch-yousafali">
-<img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=7AF79A"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ch-yousafali&color=7AF79A&style=flat-square&label=views"/>
-
-<br><br>
-
-```text
-$ echo "thanks for stopping by"
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=7AF79A&center=true&vCenter=true&width=600&lines=Keep+building.;Keep+experimenting.;Keep+shipping." alt="Closing animation"/>
-
-<br><br>
-
+<div align="center">
+<sub>Maintained by Yousuf Ali</sub>
 </div>
